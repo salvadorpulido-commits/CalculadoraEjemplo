@@ -17,6 +17,7 @@ public class Calculadora {
 	}
 
 	// Método resta modificado
+	
 	public int resta() {
 		int resul;
 		if (resta2())
@@ -27,6 +28,7 @@ public class Calculadora {
 	}
 
 	// Nuevo método resta2
+	
 	public boolean resta2() {
 		if (num1 >= num2)
 			return true;
